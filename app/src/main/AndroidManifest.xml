@@ -23,8 +23,6 @@
                 <action android:name="test.broadcast" />
             </intent-filter>
         </receiver>
-
-
         <activity android:name=".TestBroadCastActivity">
 
         </activity>
